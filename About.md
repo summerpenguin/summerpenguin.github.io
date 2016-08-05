@@ -1,25 +1,28 @@
----
+﻿---
 layout: page
 title: "About"
-description: "嘿，你总算找到我啦"
-header-img: "img/plane.jpg"
+description: "这是一只笨笨的企鹅……"
+header-img: "http://pic.ffsky.net/images/2015/12/17/ced0163f74ff2f259f7a2081a84b3227.th.jpg"
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="http://pic.ffsky.net/images/2015/12/17/ced0163f74ff2f259f7a2081a84b3227.th.jpg" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
+象征主义者
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
+考古学家（伪）
 
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
+动植物爱好者
 
-——Azeril
+天文爱好者
+
+永远的梦想家
+
+>勤于赶路，胜过徒留感触。
+
+>不要哀求，学会争取，若是如此，终有所获。
+
+愿心之所向，必将到达。
 
 
-> Live long and prosper
-
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
-</center>
